@@ -26,7 +26,7 @@
 13. [发生器和发生器表达式](12-Generators.ipynb)
 14. [模块和程序包](13-Modules-and-Packages.ipynb)
 15. [字符串和正则表达式](14-Strings-and-Regular-Expressions.ipynb)
-16. [数据科学工具前瞻](15-Preview-of-Data-Science-Tools.ipynb)
+16. [数据科学工具预览](15-Preview-of-Data-Science-Tools.ipynb)
 17. [后续学习资源](16-Further-Resources.ipynb)
 18. [附录: 生成图表的代码](17-Figures.ipynb)
 
