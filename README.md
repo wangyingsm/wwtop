@@ -32,14 +32,14 @@
 
 ## 协议
 
-This material is released under the "No Rights Reserved" [CC0](LICENSE)
+> This material is released under the "No Rights Reserved" [CC0](LICENSE)
 license, and thus you are free to re-use, modify, build-on, and enhance
 this material for any purpose.
 
-That said, I request that if you use or adapt this material, that you include
+> That said, I request that if you use or adapt this material, that you include
 a proper attribution and/or citation (citation information coming soon).
 
-Read more about CC0 [here](https://creativecommons.org/share-your-work/public-domain/cc0/).
+> Read more about CC0 [here](https://creativecommons.org/share-your-work/public-domain/cc0/).
 
 不翻了，自由使用吧，翻译版遵循原作者原则。
 
